@@ -1,0 +1,8 @@
+2022-06-27 23:37:38.025  INFO 19028 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests using Java 1.8.0_332 on LPC with PID 19028 (started by 10167 in D:\Java\community)
+2022-06-27 23:37:38.026 DEBUG 19028 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-06-27 23:37:38.027  INFO 19028 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to 1 default profile: "default"
+2022-06-27 23:37:39.725  INFO 19028 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-06-27 23:37:40.228  INFO 19028 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 2.551 seconds (JVM running for 3.308)
+2022-06-27 23:37:40.416 DEBUG 19028 --- [main] com.nowcoder.community.LoggerTests       : debug log
+2022-06-27 23:37:40.417  INFO 19028 --- [main] com.nowcoder.community.LoggerTests       : info log
+2022-06-27 23:37:40.417  WARN 19028 --- [main] com.nowcoder.community.LoggerTests       : warn log
